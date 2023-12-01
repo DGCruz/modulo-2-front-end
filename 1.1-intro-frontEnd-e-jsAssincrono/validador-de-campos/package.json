@@ -7,7 +7,6 @@
     "test": "test",
     "dev": "vite --open"
   },
-  "author": "",
   "license": "ISC",
   "dependencies": {
     "validator": "^13.9.0",
